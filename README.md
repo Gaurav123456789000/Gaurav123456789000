@@ -4,9 +4,13 @@
 
 ## Hey, I'm Gaurav 👋
 
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="190" alt="Animated coding sticker" />
+
 I enjoy building useful digital experiences and making ideas clear through thoughtful **UI design** and **PowerPoint presentations**.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gaurav123456789000)
+
+<br clear="right" />
 
 </div>
 
