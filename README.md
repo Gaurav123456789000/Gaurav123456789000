@@ -4,13 +4,24 @@
 
 ## Hey, I'm Gaurav 👋
 
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="190" alt="Animated coding sticker" />
+<table>
+<tr>
+<td width="68%" valign="middle">
 
-I enjoy building useful digital experiences and making ideas clear through thoughtful **UI design** and **PowerPoint presentations**.
+<p>I enjoy building useful digital experiences and making ideas clear through thoughtful <b>UI design</b> and <b>PowerPoint presentations</b>.</p>
+
+<p>🎨 <b>UI Design</b> &nbsp; · &nbsp; 📊 <b>PowerPoint</b> &nbsp; · &nbsp; 💻 <b>Web Development</b></p>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gaurav123456789000)
 
-<br clear="right" />
+</td>
+<td width="32%" align="center" valign="middle">
+
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="190" alt="Animated coding sticker" />
+
+</td>
+</tr>
+</table>
 
 </div>
 
