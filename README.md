@@ -48,17 +48,23 @@ I’m preparing to share examples of my UI and presentation design work here. Un
 | [ERL-HUB](https://github.com/Gaurav123456789000/oops_prooject) | A C++ project for managing emergency relief supplies, requests, vehicles, routes, and deliveries. | C++17 |
 | [Adiza Band](https://github.com/Gaurav123456789000/Adiza-Band-) | A web project in my portfolio. | Web development |
 
-### Skills & tools
+### - Languages and Tools...
 
-<p>
-  <img src="https://img.shields.io/badge/UI%20Design-6C5CE7?style=flat-square" alt="UI Design" />
-  <img src="https://img.shields.io/badge/PowerPoint%20Design-D24726?style=flat-square&logo=microsoftpowerpoint&logoColor=white" alt="PowerPoint Design" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/UI%20Design-6C5CE7?style=for-the-badge" alt="UI Design" />
+  <img src="https://img.shields.io/badge/PowerPoint%20Design-D24726?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" alt="PowerPoint Design" />
 </p>
+
+### - What I do
+
+- 💻 Build practical web applications and software projects.
+- 🎨 Design clear, thoughtful user interfaces.
+- 📊 Create polished PowerPoint presentations that communicate ideas well.
 
 ### GitHub stats
 
