@@ -67,6 +67,10 @@ I’m preparing to share examples of my UI and presentation design work here. Un
 - 🎨 Design clear, thoughtful user interfaces.
 - 📊 Create polished PowerPoint presentations that communicate ideas well.
 
+<p align="center">
+  <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" width="500" alt="Animated code editor typing HTML" />
+</p>
+
 ### GitHub stats
 
 <div align="center">
